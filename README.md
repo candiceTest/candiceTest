@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @candiceTest
 - 👀 I’m interested in explore the feature here.
-- 🌱 I’m currently learning how the tools works out on project management for our team.
+- 🌱 I’m currently learning how this tool works out on project management for our team.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
